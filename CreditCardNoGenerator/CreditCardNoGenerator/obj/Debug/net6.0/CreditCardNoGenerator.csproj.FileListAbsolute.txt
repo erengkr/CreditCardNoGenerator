@@ -1,0 +1,15 @@
+C:\Users\WIN10\source\repos\CreditCardNoGenerator\CreditCardNoGenerator\bin\Debug\net6.0\CreditCardNoGenerator.exe
+C:\Users\WIN10\source\repos\CreditCardNoGenerator\CreditCardNoGenerator\bin\Debug\net6.0\CreditCardNoGenerator.deps.json
+C:\Users\WIN10\source\repos\CreditCardNoGenerator\CreditCardNoGenerator\bin\Debug\net6.0\CreditCardNoGenerator.runtimeconfig.json
+C:\Users\WIN10\source\repos\CreditCardNoGenerator\CreditCardNoGenerator\bin\Debug\net6.0\CreditCardNoGenerator.dll
+C:\Users\WIN10\source\repos\CreditCardNoGenerator\CreditCardNoGenerator\bin\Debug\net6.0\CreditCardNoGenerator.pdb
+C:\Users\WIN10\source\repos\CreditCardNoGenerator\CreditCardNoGenerator\obj\Debug\net6.0\CreditCardNoGenerator.csproj.AssemblyReference.cache
+C:\Users\WIN10\source\repos\CreditCardNoGenerator\CreditCardNoGenerator\obj\Debug\net6.0\CreditCardNoGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN10\source\repos\CreditCardNoGenerator\CreditCardNoGenerator\obj\Debug\net6.0\CreditCardNoGenerator.AssemblyInfoInputs.cache
+C:\Users\WIN10\source\repos\CreditCardNoGenerator\CreditCardNoGenerator\obj\Debug\net6.0\CreditCardNoGenerator.AssemblyInfo.cs
+C:\Users\WIN10\source\repos\CreditCardNoGenerator\CreditCardNoGenerator\obj\Debug\net6.0\CreditCardNoGenerator.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\source\repos\CreditCardNoGenerator\CreditCardNoGenerator\obj\Debug\net6.0\CreditCardNoGenerator.dll
+C:\Users\WIN10\source\repos\CreditCardNoGenerator\CreditCardNoGenerator\obj\Debug\net6.0\refint\CreditCardNoGenerator.dll
+C:\Users\WIN10\source\repos\CreditCardNoGenerator\CreditCardNoGenerator\obj\Debug\net6.0\CreditCardNoGenerator.pdb
+C:\Users\WIN10\source\repos\CreditCardNoGenerator\CreditCardNoGenerator\obj\Debug\net6.0\CreditCardNoGenerator.genruntimeconfig.cache
+C:\Users\WIN10\source\repos\CreditCardNoGenerator\CreditCardNoGenerator\obj\Debug\net6.0\ref\CreditCardNoGenerator.dll
